@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio2a.css"?>
+<!-- ejemplo2.xml  MF11043 -->
+<pais nombre="El Salvador">
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+
+<departamento id="2" nombre="San Miguel">
+<cabecera>San  Miguel</cabecera>
+<habitantes>265,921</habitantes>
+<altura>129 MSNM</altura>
+<moneda>dolar($)</moneda>
+<codigo codigoDepartamentio="NIT">1217</codigo>
+<telefono tipo="celular">79268823</telefono>
+<area superficue="metros cuadrados">594 km</area>
+<idioma>
+<oficial>Español</oficial>
+<autóctono>Español</autóctono>
+<segundoIdioma>Ingles</segundoIdioma>
+</idioma>
+</departamento>
+</pais>

@@ -1,0 +1,7 @@
+/* ejemplo1.css   MF11043  */
+fichero {background-color:blue;}
+
+ficha {background-color:red; display:block;} 
+nombre {color:white; display:inline;}
+ apellido {color:#0026ff; display:inline;}
+ direccion {color:yellow;font-size:1cm; display:inline;}

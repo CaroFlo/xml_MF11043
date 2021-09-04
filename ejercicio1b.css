@@ -1,0 +1,35 @@
+/* ejemplo1a.css   MF11043  */
+
+fichero{
+    display:table;
+    border-spacing: 20px;
+    width: 1300px;
+    height: 10000;
+    background-color:thistle;
+}
+
+fichero{counter-reset: contador;}
+
+nombre.before{
+    content: counter(contador, upper-alpha) ".";
+    counter-increment: contador;
+}
+nombre, apellido, direcion, telefono, email, dui,iss,afp{
+    display: block;
+    margin-left: 10px;
+}
+
+apellido, direcion, telefono, email,dui, iss, afp{
+    margin-left: 45px;
+}
+
+nombre{color: blue;}
+ficha {background-color:red; display:block;
+    font-size: 15px;
+    font-family: century;
+    font-weight: bold;
+    font: height 20px;
+    text-transform: capitalize;
+    text-indent: 20px;
+    
+}
